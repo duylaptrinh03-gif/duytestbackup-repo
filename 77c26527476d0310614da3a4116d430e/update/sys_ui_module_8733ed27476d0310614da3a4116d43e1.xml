@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test">17c56f9993163610b820fff19dba1052</application>
+        <filter/>
+        <name>tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_igsap_duytestb_0.test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>duypd@tinhvan.com</sys_created_by>
+        <sys_created_on>2026-06-24 06:58:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8733ed27476d0310614da3a4116d43e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="duytestbackup" source="x_igsap_duytestb_0">77c26527476d0310614da3a4116d430e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="duytestbackup">77c26527476d0310614da3a4116d430e</sys_scope>
+        <sys_update_name>sys_ui_module_8733ed27476d0310614da3a4116d43e1</sys_update_name>
+        <sys_updated_by>duypd@tinhvan.com</sys_updated_by>
+        <sys_updated_on>2026-06-24 06:58:46</sys_updated_on>
+        <table>x_igsap_duytestb_0_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

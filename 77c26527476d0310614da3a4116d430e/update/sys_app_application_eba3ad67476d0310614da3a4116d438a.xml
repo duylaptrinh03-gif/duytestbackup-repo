@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>check</name>
+        <order>100</order>
+        <roles>x_igsap_duytestb_0.check_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>duypd@tinhvan.com</sys_created_by>
+        <sys_created_on>2026-06-24 07:00:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eba3ad67476d0310614da3a4116d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>check</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="duytestbackup" source="x_igsap_duytestb_0">77c26527476d0310614da3a4116d430e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="duytestbackup">77c26527476d0310614da3a4116d430e</sys_scope>
+        <sys_update_name>sys_app_application_eba3ad67476d0310614da3a4116d438a</sys_update_name>
+        <sys_updated_by>duypd@tinhvan.com</sys_updated_by>
+        <sys_updated_on>2026-06-24 07:00:43</sys_updated_on>
+        <title>check</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>duypd@tinhvan.com</sys_created_by>
+        <sys_created_on>2026-06-24 07:00:44</sys_created_on>
+        <sys_id>33a3ad67476d0310614da3a4116d43c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_igsap_duytestb_0_check.x_igsap_duytestb_0.check_user</sys_name>
+        <sys_package display_value="duytestbackup" source="x_igsap_duytestb_0">77c26527476d0310614da3a4116d430e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="duytestbackup">77c26527476d0310614da3a4116d430e</sys_scope>
+        <sys_security_acl display_value="x_igsap_duytestb_0_check">37a3ad67476d0310614da3a4116d43bb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_33a3ad67476d0310614da3a4116d43c1</sys_update_name>
+        <sys_updated_by>duypd@tinhvan.com</sys_updated_by>
+        <sys_updated_on>2026-06-24 07:00:44</sys_updated_on>
+        <sys_user_role display_value="x_igsap_duytestb_0.check_user" name="x_igsap_duytestb_0.check_user">e7a32d67476d0310614da3a4116d43d8</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
