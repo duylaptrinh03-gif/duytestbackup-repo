@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="duy check lan 2" language="en" table="x_igsap_duytestb_0_duy_check_lan_2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>duy check lan 2</label>
+            <language>en</language>
+            <name>x_igsap_duytestb_0_duy_check_lan_2</name>
+            <plural>duy check lan 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>duypd@tinhvan.com</sys_created_by>
+            <sys_created_on>2026-06-24 08:40:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>duy check lan 2</sys_name>
+            <sys_package display_value="duytestbackup" source="x_igsap_duytestb_0">77c26527476d0310614da3a4116d430e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="duytestbackup">77c26527476d0310614da3a4116d430e</sys_scope>
+            <sys_update_name>sys_documentation_x_igsap_duytestb_0_duy_check_lan_2__en</sys_update_name>
+            <sys_updated_by>duypd@tinhvan.com</sys_updated_by>
+            <sys_updated_on>2026-06-24 08:40:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
